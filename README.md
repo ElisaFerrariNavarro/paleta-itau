@@ -19,6 +19,7 @@ com base em identidade visual e prototipagem.
 ---
 ## 👁️‍🗨️ Preview do projeto 
 
+<img width="1079" height="766" alt="image" src="https://github.com/user-attachments/assets/d51ef116-0045-43aa-8705-d6f54a511f49" />
 
 ---
 
@@ -28,8 +29,13 @@ com base em identidade visual e prototipagem.
 
 ---
 
-## 🔍 Observações
+## Turma
 
+- 1IE-DS
+
+
+---
+## Observações 🗒️
 Este projeto faz parte das atividades acadêmicas do SENAI-SP
 
 ---
