@@ -33,6 +33,9 @@ com base em identidade visual e prototipagem.
 
 - 1IE-DS
 
+
+---
+## Observações 🗒️
 Este projeto faz parte das atividades acadêmicas do SENAI-SP
 
 ---
